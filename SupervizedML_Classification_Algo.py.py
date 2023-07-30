@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 #Data
 X_train,X_test,y_train,y_test = MyData_1Feature()
 
-
+ 
 #Algo
 algo = 'Logistic_Regression'
 
